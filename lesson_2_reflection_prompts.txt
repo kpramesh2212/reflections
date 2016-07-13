@@ -16,11 +16,25 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+   * new feature
+   * bug fixes
+   * exprimental code
+
+   * New branches would seprate the actual production code so that we can play with the production code in our own branch without breaking the actual production code in master branch
 
 How do the diagrams help you visualize the branch structure?
+  * They provide a visaual representation of most recent commit to the intital commit in a form of graph
+  * This helps us visualize information about two branches like
+       when they where branched
+       who branched
+       how long they were branched
+       how many commits are different
+       what is the commit that is a common parent of both the branches
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+ * The result of merging two branches together causes changes  from one branch to be available in the other branch
+ * Eg a new feature that was worked on a different branch merged into master so that feature is avilable in the master
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
