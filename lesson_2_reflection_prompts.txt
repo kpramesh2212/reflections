@@ -36,5 +36,9 @@ the diagram the way we do?
  * The result of merging two branches together causes changes  from one branch to be available in the other branch
  * Eg a new feature that was worked on a different branch merged into master so that feature is avilable in the master
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
+What are the pros and cons of Gits automatic merging vs. always doing merges
 manually?
+ *Automatic merge helps to reduce error 
+ *saves time
+ *User doesnt have to break his head on finding all the problem in the merge
+ 
