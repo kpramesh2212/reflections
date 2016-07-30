@@ -25,7 +25,10 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+   * you could create a zip file of the changes and then use that for collabration
+   * you could copy all the files into a common place so that others can download it
+   * however it will be very hard to manually track and change those files
+   * it would be time consuming for eg 1 person would send the zip file of his/her changes to the other. Then the reveiwer will comment on the changes and send back the zip file. This will happen back and forth which is time conusming and will also cost ineffective
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
